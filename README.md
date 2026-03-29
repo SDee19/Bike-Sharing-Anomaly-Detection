@@ -60,5 +60,23 @@ In conclusion, the project successfully developed and validated a predictive mod
 
 # CityPulse - 𝑼𝒏𝒄𝒐𝒗𝒆𝒓 𝒕𝒉𝒆 𝒔𝒕𝒐𝒓𝒚 𝒃𝒆𝒉𝒊𝒏𝒅 𝒆𝒗𝒆𝒓𝒚 𝒓𝒊𝒅𝒆. 𝑻𝒓𝒂𝒄𝒌, 𝒑𝒓𝒆𝒅𝒊𝒄𝒕, 𝒂𝒏𝒅 𝒆𝒙𝒑𝒍𝒐𝒓𝒆 𝒚𝒐𝒖𝒓 𝒄𝒊𝒕𝒚'𝒔 𝒄𝒚𝒄𝒍𝒊𝒏𝒈...
 
-![WhatsApp Image 2025-10-29 at 12 00 55_464f1855](https://github.com/user-attachments/assets/1ec7f758-f460-4feb-b691-9bddf6f54f00)
+1. 𝗛𝗼𝗺𝗲 𝗣𝗮𝗴𝗲
+
+   ![WhatsApp Image 2026-03-29 at 10 51 47](https://github.com/user-attachments/assets/95aee3fd-c9ed-4941-bb52-0fa7d4f6c530)
+
+2. 𝗜𝗻𝘁𝗲𝗿𝗮𝗰𝘁𝗶𝘃𝗲 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱
+
+   ![WhatsApp Image 2026-03-29 at 10 51 48](https://github.com/user-attachments/assets/7b704043-a2da-4259-b21e-1c71c687d214)
+
+3. 𝗣𝗿𝗲𝗱𝗶𝗰𝘁𝗶𝗼𝗻 𝗘𝗻𝘃𝗶𝗿𝗼𝗻𝗺𝗲𝗻𝘁
+
+   ![WhatsApp Image 2026-03-29 at 10 51 48 (1)](https://github.com/user-attachments/assets/270c9e80-e0cd-4d9f-b922-7c151a9dc85c)
+
+4. 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗨𝘀 𝗣𝗮𝗴𝗲
+
+   ![WhatsApp Image 2026-03-29 at 10 51 49](https://github.com/user-attachments/assets/f3bd9965-7ba1-4f24-8d20-eef3a252b786)
+
+
+
+
 
